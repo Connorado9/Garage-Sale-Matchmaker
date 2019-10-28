@@ -1,0 +1,2 @@
+chicken, for sale, 60
+Chicken, wanted, 50
