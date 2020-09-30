@@ -43,6 +43,7 @@ int main()
     if (!in)
     {
     	cout << "File can't be opened! " << endl;
+	cout<<"prize of bike is "<<endl;
     	exit(1);
     }
 
@@ -76,6 +77,8 @@ int main()
         cout << itemArray[i].type << ", ";
         cout << itemArray[i].desire << ", ";
         cout << itemArray[i].price;
+	  cout<<itemcolor<<"black";
+	    
     }  
 
 	//return 0;
