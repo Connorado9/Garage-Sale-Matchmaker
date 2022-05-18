@@ -1,4 +1,4 @@
-# Garage_Sale_CPP
+# Garage-Sale-Matchmaker
 
 Purpose: Read through a list of items from a txt file to match sellers and buyers in a community garage sale. 
 
